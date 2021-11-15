@@ -36,6 +36,11 @@ export default class App extends Vue {
       title: "主页",
       path: "/",
     },
+    {
+      key: "VueMicroApp",
+      title: "Vue 主页",
+      path: "/vue",
+    },
   ];
 }
 </script>
